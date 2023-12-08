@@ -1,6 +1,7 @@
-import React, { useEffect, useState } from "react";
-import { apiEndpointUrl } from "../config/apiEndpoint";
 import axios from "axios";
+
+const apiEndpointUrl =
+  "https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/";
 
 const useCurrencyConvert = async (fromCurrency) => {
   console.log("called useCurrencyConvert");

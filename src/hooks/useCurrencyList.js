@@ -1,6 +1,7 @@
-import React from "react";
-import { apiEndpointUrl } from "../config/apiEndpoint";
 import axios from "axios";
+
+const apiEndpointUrl =
+  "https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/";
 
 const useCurrencyList = async () => {
   console.log("called useCurrencyList");
