@@ -1,4 +1,6 @@
-![2](https://github.com/mustafa854/react-currency-converter/assets/84233282/ccda2c69-9d1a-44c6-a7f5-f1c13ca28907)# Simple Currency Converter using React
+![2](https://github.com/mustafa854/react-currency-converter/assets/84233282/ccda2c69-9d1a-44c6-a7f5-f1c13ca28907)
+
+# Simple Currency Converter using React
 
 This simple currency converter is a React-based web application that allows users to convert currency values. It utilizes Axios for API requests and integrates Tailwind CSS for styling.
 
@@ -83,4 +85,3 @@ simpleCurrencyConverter/
 - React
 - Axios
 - Tailwind CSS
-  Please replace <repository_url> in the installation steps with the actual URL of your project's repository. Ensure that the code snippets provided under 'Files' correspond to the respective files in your project and update the descriptions as necessary.
