@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import "./App.css";
 import InputBox from "./components/InputBox";
 import useCurrencyList from "./hooks/useCurrencyList";
 import useCurrencyConvert from "./hooks/useCurrencyConvert";
