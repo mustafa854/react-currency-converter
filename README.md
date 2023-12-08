@@ -32,19 +32,25 @@ simpleCurrencyConverter/
 ├── src/
 │ ├── components/
 │ │ ├── InputBox.jsx
-│ │ └── ... (Other components)
 │ ├── hooks/
 │ │ ├── useCurrencyConvert.jsx
 │ │ ├── useCurrencyList.jsx
-│ │ └── ... (Other hooks)
 │ ├── App.jsx
 │ ├── index.css
-│ └── ... (Other necessary files)
 ├── package.json
 └── README.md
 ```
 
 ## Demo Images <a name="demo-images"></a>
+
+![1](https://github.com/mustafa854/react-currency-converter/assets/84233282/102b12ce-2da4-45e1-9f92-7e2eb616f307)
+
+![Uploading 2.PNG…]()
+
+![Uploading 4.PNG…]()
+
+![Uploading 3.PNG…]()
+
 
 ## Installation <a name="installation"></a>
 
